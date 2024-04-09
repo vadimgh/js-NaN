@@ -10,6 +10,6 @@ console.log(Number.isNaN(nan));
 
 try {
   isNaN(1n);
-} catch(err) {
+} catch (err) {
   console.log(err.message);
 }

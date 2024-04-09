@@ -7,4 +7,3 @@ console.log(arr.lastIndexOf(NaN));
 console.log(arr.findIndex(n => Number.isNaN(n)));
 
 console.log(arr.includes(NaN));
-

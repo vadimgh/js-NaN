@@ -10,6 +10,6 @@ console.log(isNaN(Number.NaN));
 
 console.log(Number.isNaN(NaN));
 
-const checkIsNan = v => v !==v;
+const checkIsNan = v => v !== v;
 
 console.log(checkIsNan(NaN));
